@@ -22,3 +22,6 @@ But:
 weather -a 'Borgarfjordsgatan 6c Kista Stockholm'
 ```
 ^ Will write out the weather very specific to that place
+
+License: ISC.
+Author: Anton Myrberg.

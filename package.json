@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "bin":{
+    "weather": "./app.js"
+  },
   "dependencies": {
     "request": "^2.81.0",
     "yargs": "^4.8.1"

@@ -1,4 +1,4 @@
-# node_weatherApp 
+# node_weatherApp
 A weather app built with nodejs.
 
 Learned how to make an api wrapper with this small project.
@@ -6,7 +6,7 @@ Learned how to make an api wrapper with this small project.
 ### How to use:
 
 ```
-npm install -g
+npm install weather-app -g
 weather -a '<designated address, town, or country>'
 ```
 

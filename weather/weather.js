@@ -9,8 +9,8 @@ let getWeather = (lat, lng, callback) => {
       callback(undefined, {
         latitude: lat,
         longtidue: lng,
-        currentTemperature: ((body.currently.temperature)-32)*(5/9),
-        apparentTemperature: ((body.currently.apparentTemperature)-32)*(5/9),
+        currentTemperature: ((body.currently.temperature)-32)/1.8,
+        apparentTemperature: ((body.currently.apparentTemperature)-32)/1.8,
         weatherSummary: body.currently.summary
       });
     } else {

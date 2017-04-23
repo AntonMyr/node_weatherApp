@@ -6,7 +6,7 @@ Learned how to make an api wrapper with this small project.
 ### How to use:
 
 ```
-npm install -g
+npm install
 node app.js -a '<designated address, town, or country>'
 ```
 
@@ -31,7 +31,7 @@ Learned how to make an api wrapper with this small project.
 ### How to use:
 
 ```
-npm install
+npm install -g
 weather -a '<designated address, town, or country>'
 ```
 

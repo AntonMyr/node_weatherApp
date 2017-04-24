@@ -24,5 +24,4 @@ let getWeather = (lat, lng) => {
     );
   });
 };
-
 module.exports.getWeather = getWeather;

@@ -12,7 +12,7 @@
     "weather": "./app.js"
   },
   "dependencies": {
-    "request": "^2.81.0",
+    "axios": "^0.16.1",
     "yargs": "^4.8.1"
   },
   "repository": {

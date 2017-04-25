@@ -7,7 +7,11 @@ Learned how to make an api wrapper with this small project.
 
 ```
 npm install weather-app -g
+```
+**Commands: **
+```
 weather -a '<designated address, town, or country>'
+weather -help
 ```
 
 Tips to make it work better is to make it more specific for example:
@@ -22,6 +26,8 @@ But:
 weather -a 'Borgarfjordsgatan 6c Kista Stockholm'
 ```
 ^ Will write out the weather very specific to that place
+
+
 
 License: ISC.
 Author: Anton Myrberg.

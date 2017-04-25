@@ -8,7 +8,7 @@ Learned how to make an api wrapper with this small project.
 ```
 npm install weather-app -g
 ```
-**Commands: **
+***Commands: ***
 ```
 weather -a '<designated address, town, or country>'
 weather -help

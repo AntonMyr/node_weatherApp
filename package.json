@@ -14,5 +14,9 @@
   "dependencies": {
     "request": "^2.81.0",
     "yargs": "^4.8.1"
+  },
+  "repository": {
+    "typeof": "git",
+    "url": "https://github.com/AntonMyr/node_weatherApp.git"
   }
 }

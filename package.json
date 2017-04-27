@@ -9,7 +9,7 @@
   "author": "Anton Myrberg",
   "license": "ISC",
   "bin": {
-    "weather": "./app.js"
+    "weather": "./app-promise.js"
   },
   "dependencies": {
     "axios": "^0.16.1",
